@@ -1,4 +1,4 @@
-# E.L. Custom (Working on E.L. Custom v2 using diffrent library and framework).
+# E.L. Custom
 
 A website about custom keyboards that provides users with all the essential information for getting started with the mechanical keyboard hobby, including guides, tips, and personalized recommendations.
 
